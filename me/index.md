@@ -3,4 +3,52 @@ layout: me
 title: me
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis placerat enim nec cursus. Ut et elit congue, facilisis dui id, efficitur velit. Integer faucibus velit varius arcu consectetur aliquam. Sed dui ante, euismod non malesuada vel, suscipit vel elit. Nullam tempor vehicula urna, sed dignissim ligula hendrerit in. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin et nisi eget nunc vehicula posuere. Nam elementum finibus auctor. Suspendisse a mauris et arcu molestie egestas sed et dolor. Nullam ut est tristique, iaculis tortor non, viverra felis. Praesent a tincidunt tellus, eget congue eros. Mauris non libero nec ipsum ultricies tincidunt sit amet nec ante. Duis molestie sem at ligula rhoncus viverra. Pellentesque sit amet tortor euismod, rhoncus lacus a, sodales odio. Proin ac convallis ipsum. Cras tincidunt mollis consequat.
+<br>
+<center>大风卷地不留痕，痴雾十年扑烛灯。人间非少狂人梦，漫天秋鸿奏晚钟。</center>
+
+# Series directory
+
+## 空白界
+
+起源系列：
+
+- 《夜游记》 *未完成*
+- 《焚枝记》 *未完成*
+- 《致你》（合写重置） *搁置*
+
+## 浮尘界
+
+浮尘异变系列：
+
+- 《黑色月光》 
+- 《火山之国》 
+- 《恶劣伪装》 
+
+## 幻海界
+
+- 《维切涅·赛维特的奇谭》/《久光奇谭》  （“浮尘异变”的分支剧情）
+
+- 《焚枝魔女》 
+
+- 《Lachesism（爱神的利箭）》
+
+罗宋汤系列
+
+- 《寿命转移服务中心》 
+- 《某不愿透露姓名的热心玩家》 
+- 《某不愿透露姓名的御妖师》 
+
+## 蛮荒界
+
+- 《拂晓之时》 
+- 《雾舟岛》
+
+## 独立故事
+
+Obsession-痴迷集
+
+- 《夜逃》
+- 《沉眠的爱啊你自由了》
+
+
+
