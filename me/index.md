@@ -9,7 +9,7 @@ title: me
 
 起源系列：
 
-- 《夜游记》 
+- [《夜游会》](https://june-storm.github.io/20221031/yeyou00) 
 - 《奇源记》 
 
 
@@ -17,9 +17,9 @@ title: me
 
 浮尘异变系列：
 
-- 《黑色月光》 
-- 《火山之国》 
-- 《恶劣伪装》 
+- [《黑色月光》](https://june-storm.github.io/20221031/black_moon01) 
+- [《火山之国》](https://june-storm.github.io/20221101/volcano00) 
+- [《恶劣伪装》](https://june-storm.github.io/20221101/bad_fake00) 
 
 ## 幻海界 Ocean
 
