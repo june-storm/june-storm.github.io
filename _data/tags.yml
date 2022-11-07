@@ -1,10 +1,13 @@
-tag1:
-  name: tag0
+dust:
+  name: dust
 
-tag2:
-  name: tag2
+ocean:
+  name: ocean
 
-tag3:
-  name: tag3
+relic:
+  name: relic
+
+wilderness:
+  name: wilderness
 
 
